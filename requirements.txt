@@ -1,0 +1,7 @@
+numpy
+pandas>=2.0
+scipy
+matplotlib
+ipython
+yfinance            # Part 3 (ETF data)
+python-binance      # only if DATA_SOURCE = "binance_us"
